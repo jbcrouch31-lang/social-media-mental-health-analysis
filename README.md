@@ -47,7 +47,7 @@ Corelation coefficient: **0.365**
 P-value: **1.43 x 10^-16**
 ### Interpretation
 The analysis found a **moderate positive correlation** between social media distraction and depression ratings.
-Beacuse the p-value is far below 0.05, the relatinship is **statistically significant**, suggesting that participants who reported being more distracted by social media also tended to report higher levels of depression.
+Beacuse the p-value is far below 0.05, the relationship is **statistically significant**, suggesting that participants who reported being more distracted by social media also tended to report higher levels of depression.
 *Note: correlation does not imply causation.*
 
 -----
