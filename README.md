@@ -68,7 +68,7 @@ Beacuse the p-value is faw below 0.05, the relatinship is **statistically signif
 -----
 
 ## Visualizations
-### Scial Media Distribution Ratings
+### Social Media Distribution Ratings
 ![Bar Chart](Bar_chart.png)
 ### Distribution of Depression Ratings
 ![Histogram](Histogram.png)
