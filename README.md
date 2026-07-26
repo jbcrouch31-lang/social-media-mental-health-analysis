@@ -36,7 +36,6 @@ To answer this question, I analyzed survey responses and calculated the Spearman
 The project includes:
 - Bar chart of social media distraction ratings
 - Histogram of depression ratings
-- Scatter plot comparing distraction and depression
 - Correlation matrix of multiple mental health variables
 - Spearman correlation analysis
 
@@ -73,7 +72,5 @@ Beacuse the p-value is faw below 0.05, the relatinship is **statistically signif
 ![Bar Chart](Bar_chart.png)
 ### Distribution of Depression Ratings
 ![Histogram](Histogram.png)
-### Distraction vs. Depression
-![Scatter Plot](Scatter_plot.png)
 ### Correlation Matrix
 ![Heatmap](Heatmap.png)
