@@ -70,10 +70,10 @@ Beacuse the p-value is faw below 0.05, the relatinship is **statistically signif
 
 ## Visualizations
 ### Scial Media Distribution Ratings
-![Bar Chart](figures/Bar_chart.png)
+![Bar Chart](Bar_chart.png)
 ### Distribution of Depression Ratings
-![Histogram](figures/Histogram.png)
+![Histogram](Histogram.png)
 ### Distraction vs. Depression
-![Scatter Plot](figures/Scatter_plot.png)
+![Scatter Plot](Scatter_plot.png)
 ### Correlation Matrix
-![Heatmap](figures/Heatmap.png)
+![Heatmap](Heatmap.png)
